@@ -1,0 +1,10 @@
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoLibrary\CryptoLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoLibrary\CryptoLibrary\bin\Debug\CryptoLibrary.dll
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoLibrary\CryptoLibrary\bin\Debug\CryptoLibrary.pdb
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoLibrary\CryptoLibrary\obj\Debug\CryptoLibrary.dll
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoLibrary\CryptoLibrary\obj\Debug\CryptoLibrary.pdb
+C:\Manu\CryptoLibrary\CryptoLibrary\bin\Debug\CryptoLibrary.dll
+C:\Manu\CryptoLibrary\CryptoLibrary\bin\Debug\CryptoLibrary.pdb
+C:\Manu\CryptoLibrary\CryptoLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Manu\CryptoLibrary\CryptoLibrary\obj\Debug\CryptoLibrary.dll
+C:\Manu\CryptoLibrary\CryptoLibrary\obj\Debug\CryptoLibrary.pdb

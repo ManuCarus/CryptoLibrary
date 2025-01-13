@@ -1,0 +1,5 @@
+bin\Debug\CryptoLibrary.dll
+bin\Debug\CryptoLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CryptoLibrary.dll
+obj\Debug\CryptoLibrary.pdb
