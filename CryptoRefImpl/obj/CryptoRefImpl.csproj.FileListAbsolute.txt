@@ -1,0 +1,20 @@
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\obj\Debug\ResolveAssemblyReference.cache
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoSamples.View.MainForm.resources
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.Properties.Resources.resources
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.csproj.GenerateResource.Cache
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoRefImpl.exe
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoRefImpl.pdb
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoLibrary.dll
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoLibrary.pdb
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.exe
+C:\Manu\Kunden\T-Mobile\Security\Crypto Cheat Sheet\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.pdb
+C:\Manu\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoRefImpl.exe
+C:\Manu\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoRefImpl.pdb
+C:\Manu\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoLibrary.dll
+C:\Manu\CryptoRefImpl\CryptoRefImpl\bin\Debug\CryptoLibrary.pdb
+C:\Manu\CryptoRefImpl\CryptoRefImpl\obj\Debug\ResolveAssemblyReference.cache
+C:\Manu\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoSamples.View.MainForm.resources
+C:\Manu\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.Properties.Resources.resources
+C:\Manu\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.csproj.GenerateResource.Cache
+C:\Manu\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.exe
+C:\Manu\CryptoRefImpl\CryptoRefImpl\obj\Debug\CryptoRefImpl.pdb

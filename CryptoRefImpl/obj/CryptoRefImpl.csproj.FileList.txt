@@ -1,0 +1,10 @@
+obj\Debug\CryptoRefImpl.exe
+obj\Debug\CryptoRefImpl.pdb
+bin\Debug\CryptoRefImpl.exe
+bin\Debug\CryptoRefImpl.pdb
+bin\Debug\CryptoLibrary.dll
+bin\Debug\CryptoLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CryptoSamples.View.MainForm.resources
+obj\Debug\CryptoRefImpl.Properties.Resources.resources
+obj\Debug\CryptoRefImpl.csproj.GenerateResource.Cache
